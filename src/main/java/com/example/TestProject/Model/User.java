@@ -1,4 +1,4 @@
-package com.example.TestProject.Model;
+package com.example.TestProject.model;
 
 public class User {
 
